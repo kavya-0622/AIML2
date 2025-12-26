@@ -1,0 +1,49 @@
+header { 
+  display: block; 
+  background: lightgray; 
+  padding: 10px; 
+  text-align: center; 
+} 
+ 
+
+header span { 
+  display: inline; 
+  color: brown; 
+} 
+ 
+
+
+.nav-menu ul { 
+  list-style: none; 
+  padding: 0; 
+} 
+.nav-menu li { 
+  display: inline-block; 
+  margin-right: 10px; 
+} 
+.nav-menu a { 
+  text-decoration: none; 
+  padding: 5px; 
+  background: lightblue; 
+} 
+ 
+
+
+.float-bar ul { 
+  list-style: none; 
+  padding: 0; 
+} 
+.float-bar li { 
+  float: left; 
+  margin-right: 10px; 
+} 
+.float-bar a { 
+  text-decoration: none; 
+  padding: 5px; 
+  background: lightgreen; 
+} 
+ 
+
+.clear { 
+  clear: both; 
+} 
