@@ -1,0 +1,31 @@
+ h1 {
+    color:green;
+}
+
+p {
+    color:red;
+}
+
+button {
+    color:saddlebrown;
+    background-color: hotpink;
+}
+
+body {
+    background-color:beige;
+}
+
+/* To make whole elements of webpage of the same color */
+* {
+    color: blue;
+}
+
+/* To assign color to any id : */
+#headingOne {
+    color:yellow;
+}
+
+/* To assign color to any class: */
+.myClass {
+    color: brown;
+}
